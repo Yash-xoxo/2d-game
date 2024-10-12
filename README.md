@@ -14,6 +14,7 @@ Python (AI and Game Mechanics Scripting)
 C++ (Physics and Performance)
 
 
+
 <h2>Conclusion</h2>
 C#: Main game logic, graphics, and input handling using MonoGame.
 Python: AI scripting for controlling the second paddle.
