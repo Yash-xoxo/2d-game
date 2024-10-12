@@ -1,5 +1,6 @@
 <h2>Overview</h2>
 Game Overview: Pong
+
 Goal: Create a simple 2D Pong game where two paddles hit a ball back and forth.
 Languages: C#: Handle the game’s logic and graphics.
 Python: Manage scripting for game mechanics and AI for paddle movements.
